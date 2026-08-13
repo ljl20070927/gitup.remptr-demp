@@ -1,0 +1,7 @@
+.env
+777/
+*.html
+main.cpp
+**/999/
+333.cpp
+test.cpp
